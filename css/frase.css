@@ -1,0 +1,17 @@
+#frase{
+    text-align: center;
+    background:rgb(78, 13, 13) ;
+
+}
+#frase .contenedor{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#frase .contenedor p{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    color: rgb(255, 153, 0);
+    font-size: 50px;
+}
